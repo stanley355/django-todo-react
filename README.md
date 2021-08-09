@@ -5,4 +5,4 @@ Follow the instruction here: https://www.digitalocean.com/community/tutorials/bu
 ## Continue to "Creating the view part"
 
 ### Admin: your name
-### Pass: pass
+### Pass: passk
